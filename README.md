@@ -1,2 +1,2 @@
 # imview
-py image viewer
+py image viewer with color managment and oiio loader
